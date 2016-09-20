@@ -304,7 +304,7 @@ margin-bottom:10px;
 	   
 	   aside .widget  > h3 {
 	   background:#b3b3b3;
-	   color:#1798af;
+	   color:black;
 	   width:220px;
 	   padding: 10px 0px;
 	   text-align:center;
@@ -355,7 +355,7 @@ margin-bottom:10px;
 	  footer #acerca-de h3 {
 	   font-family:SourceSans-Light;
 	   font-size:20px;
-	   color:#b3b3b3;
+	   color:black;
 	   margin-bottom:5px;
 	  }
 	  
